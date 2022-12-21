@@ -1,5 +1,5 @@
 module.exports = {
     api: {
-        baseURL: "http://138.2.226.148:8080"
+        baseURL: "http://129.80.127.127:8080"
     }
 }
